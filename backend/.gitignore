@@ -1,0 +1,6 @@
+.venv
+README.md.bak
+
+# Python & FastAPI caches
+/__pycache__/
+app/__pycache__/
